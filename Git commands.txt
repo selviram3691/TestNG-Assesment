@@ -15,4 +15,7 @@ git branch
 cd GitURLFolder
 
 git branch -D newBranchName
+
 git push origin --delete newBranchName
+Git push 
+git pull
